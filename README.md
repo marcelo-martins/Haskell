@@ -1,2 +1,2 @@
 # Haskell
-va toma no cu 777
+listas de haskell daquele jeito
